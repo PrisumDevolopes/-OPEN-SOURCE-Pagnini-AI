@@ -2,6 +2,12 @@
 
 Pagnini AI is a open source, highly intelligent Ai that responds to your voice. Say "hey friday" and wait for a sound to play. This means the AI is listening, anything you say next will be run through llama3 or tinyllama (for raspberry pis). It will automaticly speak its response through one of your speakers.
 
+Run the command and locate the folder you want to use for hold the file 
+`cd {location} `
+
+The run the clone git command
+`git clone https://github.com/PrisumDevolopes/-OPEN-SOURCE-Pagnini-AI`
+
 Install Ollama here: https://ollama.com/download
 
 Open your terminal/console and run the command ( ollama run tinyllama ) or ( ollama run llama3 )
